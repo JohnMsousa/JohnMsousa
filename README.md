@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center"> Hello World 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" 
+    alt="Hand with Fingers Splayed Light Skin Tone" 
+    width="30" 
+    height="30" />
+</h1>
 
-<!--
-**JohnMsousa/JohnMsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Meus contatos 📲</h1>
+<div style="flex">
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+</div>
+<h1>Ferramentas👨‍💻</h1>
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,tailwind,bootstrap,git,github&theme=dark" />
 
-Here are some ideas to get you started:
+ <br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+  <a href="https://github.com/daviiisousa">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JohnMsousa&show_icons=true&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMsousa&layout=compact&theme=radical"/>
+  </a>
+</div>
