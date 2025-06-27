@@ -16,7 +16,7 @@
  <br> 
 
  <div align="center">
-  <a href="https://github.com/daviiisousa">
+  <a href="https://github.com/JohnMsousa">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JohnMsousa&show_icons=true&theme=radical"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMsousa&layout=compact&theme=radical"/>
   </a>
